@@ -4,15 +4,15 @@ This repository contains Python scripts for simulating and compensating for colo
 
 Overview
 
-CVD_Compensation_algo.py – Compensates for color vision deficiency by adjusting image colors to make them more distinguishable for people with CVD.
+CVD_Compensation_algo.ipynb – Compensates for color vision deficiency by adjusting image colors to make them more distinguishable for people with CVD.
 
-CVD_sumulation.py – Simulates how images appear to individuals with color vision deficiency.
+CVD_sumulation.ipynb – Simulates how images appear to individuals with color vision deficiency.
 
-PSNR.py – Calculates Peak Signal-to-Noise Ratio (PSNR) to measure the quality of compressed or recolored images compared to the original.
+CVD_PSNR.ipynb – Calculates Peak Signal-to-Noise Ratio (PSNR) to measure the quality of compressed or recolored images compared to the original.
 
-rmstwoimage.py – Computes Mean Squared Error (MSE) between two images to quantify the difference.
+cvd_rmstwoimage.py – Computes Mean Squared Error (MSE) between two images to quantify the difference.
 
-SSIM.py – Calculates Structural Similarity Index (SSIM) between two images to evaluate perceptual quality.
+CVD_SSIM.ipynb – Calculates Structural Similarity Index (SSIM) between two images to evaluate perceptual quality.
 
 Requirements
 
