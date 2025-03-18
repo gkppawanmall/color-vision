@@ -1,3 +1,6 @@
+Journal Name: The Visual Computer 
+Paper Title: Enhancing Augmented Reality Experiences for Individuals with Color Vision Deficiency: A Computational Approach
+
 Color Vision Deficiency (CVD) Image Processing
 
 This repository contains Python scripts for simulating and compensating for color vision deficiency (CVD) in images. It also includes scripts to evaluate image quality using PSNR, MSE, and SSIM metrics.
