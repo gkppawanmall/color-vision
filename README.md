@@ -1,5 +1,5 @@
 Journal Name: The Visual Computer 
-Paper Title: Enhancing Augmented Reality Experiences for Individuals with Color Vision Deficiency: A Computational Approach
+Paper Title: AR-CVD: A Computational Framework for Enhancing Augmented Reality Experiences of Color Vision Deficient Individuals
 
 Color Vision Deficiency (CVD) Image Processing
 
